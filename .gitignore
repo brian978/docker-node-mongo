@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# MacOS generated files
+.DS_Store
+
+# IDE generated files
+.idea
+.vscode
+
+# Docker config
+docker-compose.override.yml
